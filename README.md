@@ -1,5 +1,5 @@
-# Simple Selenium scipt in Python sending a message from provided discord account to provided discord nickname. 
-## Requires Python with Selenium 4 and latest Gecko Webdriver. 
+## Simple Selenium scipt in Python sending a message from provided discord account to provided discord nickname. 
+### Requires Python with Selenium 4 and latest Gecko Webdriver. 
 ### To start, modify the discord_text.py fields:
 - message
 - email
